@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation App</string>
+    <string name="start_button">Press here to start navigating!</string>
+    <string name="title_activity_navigation_start">NavigationStart</string>
+    <string name="input_request">Please enter a starting point(latitude, longitude) and ending point</string>
+    <string name="Enter">Enter here!</string>
+    <string name="Submit">Start the navigation process</string>
+    <string name="ThirdTitle">Live Navigation View!</string>
+</resources>
+

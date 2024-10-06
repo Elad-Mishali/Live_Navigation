@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Elad/AndroidStudioProjects/MyFirstApplication/app/.cxx/Debug/3o342o5t/x86",
+  "command": "C:\\Users\\Elad\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/Elad/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmyfirstapplication_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\myfirstapplication.dir\\myfirstapplication.cpp.o -c C:\\Users\\Elad\\AndroidStudioProjects\\MyFirstApplication\\app\\src\\main\\cpp\\myfirstapplication.cpp",
+  "file": "C:\\Users\\Elad\\AndroidStudioProjects\\MyFirstApplication\\app\\src\\main\\cpp\\myfirstapplication.cpp"
+}
+]

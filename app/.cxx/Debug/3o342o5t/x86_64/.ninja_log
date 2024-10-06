@@ -1,0 +1,5 @@
+# ninja log v5
+1	41	7474357586908418	CMakeFiles/myfirstapplication.dir/myfirstapplication.cpp.o	d65311630039bc91
+42	141	7474357587876159	C:/Users/Elad/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/cxx/Debug/3o342o5t/obj/x86_64/libmyfirstapplication.so	b44e649c2feaef3a
+0	81	7474363381138422	CMakeFiles/myfirstapplication.dir/myfirstapplication.cpp.o	d65311630039bc91
+82	176	7474363382087708	C:/Users/Elad/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/cxx/Debug/3o342o5t/obj/x86_64/libmyfirstapplication.so	b44e649c2feaef3a
