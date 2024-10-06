@@ -1,7 +1,7 @@
 # Live Navigation
 
 # Description
-This Android application provides a navigation tool that can be used for padestrian navigation in an area without GPS.
+This Android application provides a navigation tool that can be used for pedestrian navigation in an area without GPS.
 
 # Technologies
 Kotlin
