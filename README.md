@@ -4,10 +4,10 @@
 This Android application provides a navigation tool that can be used for pedestrian navigation in an area without GPS.
 
 # Technologies
-Kotlin
-Android Studio
-Gradle
-osmdroid
+1. Kotlin
+2. Android Studio
+3. Gradle
+4. osmdroid
 
 # Installation
 Requirements (its sufficent to download the latest android studio eniroment):
@@ -18,7 +18,7 @@ Requirements (its sufficent to download the latest android studio eniroment):
    
 # Steps to Set Up Locally
 1. Clone the Repository:
-git clone https://github.com/yourusername/repo-name.git
+https://github.com/Elad-Mishali/Live_Navigation.git
 2. Open the Project:
 Launch Android Studio.
 Open the project by navigating to the folder where it was cloned.
