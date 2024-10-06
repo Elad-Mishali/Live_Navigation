@@ -10,11 +10,12 @@ Gradle
 osmdroid
 
 # Installation
-Requirements
-Android Studio
-Android SDK
-Gradle
+Requirements (its sufficent to download the latest android studio eniroment):
+1. Android Studio
+2. Android SDK
+3. Gradle
 
+   
 # Steps to Set Up Locally
 1. Clone the Repository:
 git clone https://github.com/yourusername/repo-name.git
